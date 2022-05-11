@@ -1,0 +1,60 @@
+
+// articles 
+
+.acm {
+  border-right: 3px inset #444444;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+.ac {
+  padding-left: 20px;
+}
+
+/*
+ border-top-left-radius: 255px 15px;
+ border-top-right-radius: 15px 225px;
+ border-bottom-right-radius: 225px 15px;
+ border-bottom-left-radius:15px 255px;
+*/
+
+
+.acname {
+  padding: 0px 25px;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border: 2px solid #444444;
+  border-right: none;
+  border-left: none;
+}
+
+.ascname {
+  padding: 0px 25px;
+  margin-left: 50px;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border: 2px solid #444444;
+  border-right: none;
+}
+
+
+/*          HTML FOR THIS
+
+<h3 id="the-internet">the internet</h3>
+
+<hr>
+
+<h4 id="the-internet-is-made-of-demons"><a href="https://damagemag.com/2022/04/21/the-internet-is-made-of-demons/" target="_blank" rel="noopener noreferrer">“The Internet is Made of Demons”</a></h4>
+
+<h6 id="imgurarchiveorgarchivetoday">
+<a href="https://i.imgur.com/V9wj86K.png" target="_blank" rel="noopener noreferrer">imgur</a>/<a href="https://web.archive.org/web/20220422001846/https://damagemag.com/2022/04/21/the-internet-is-made-of-demons/" target="_blank" rel="noopener noreferrer">archive.org</a>/<a href="https://archive.ph/9TdkV" target="_blank" rel="noopener noreferrer">archive.today</a>
+</h6>
+
+<p>–</p>
+
+<h4 id="how-the-blog-broke-the-web"><a href="https://stackingthebricks.com/how-blogs-broke-the-web/" target="_blank" rel="noopener noreferrer">“How the Blog Broke the Web”</a></h4>
+
+<h6 id="imgurarchiveorgarchivetoday-1">
+<a href="https://i.imgur.com/ItfoKgq.png" target="_blank" rel="noopener noreferrer">imgur</a>/<a href="https://web.archive.org/web/20180707000558/https://stackingthebricks.com/how-blogs-broke-the-web/" target="_blank" rel="noopener noreferrer">archive.org</a>/<a href="https://archive.ph/fAaFA#" target="_blank" rel="noopener noreferrer">archive.today</a>
+</h6>
+
+<hr>
+*/
+

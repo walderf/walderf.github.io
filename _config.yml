@@ -1,0 +1,57 @@
+### your site title here
+
+title: "the whole sheet..."
+description: "thoughts. things. a rudimentary digital garden."
+
+baseurl: 
+url: "" 
+email: # 
+
+highlighter: roug
+markdown: kramdown
+
+# Pagination
+paginate: 7
+permalink: /thoughts/:year/:title/
+paginate_path: /thoughts/page:num/
+
+# Social media links in footer
+twitter: "irwalder"
+github: "walderf"
+
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /things/:path/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% if page.path contains '_projects' %}
+  <br />
+  <h2>{{page.headline}}</h2>
+{% else %}
+  <h1 class="post-headline">{{page.title}}</h1>
+{% endif %}
+
+
+{{content}}
+
+<!-- Comments only for posts -->
+{% if page.path contains '_posts' %}
+    {% if site.disqus-shortname %}
+        {% include disqus.html %}
+    {% endif %}
+{% endif %}

@@ -1,0 +1,197 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  max-width: $content-width;
+  font-family: $base-font-family;
+  margin: 0 auto;
+  line-height: $base-line-height;
+  font-size: $base-font-size;
+  color: $text-color;
+  background-color: $body-bg;
+  padding: 2em 1em;
+  text-rendering: optimizeLegibility;
+  height: 100%;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: $body-bg-dark;
+    color: $text-color-dark;
+  }
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 1.8;
+  margin: 0;
+  text-transform: inherit;
+}
+
+a {
+  color: $brand-color;
+  text-decoration: none;
+  &:hover{
+    color: $text-color;
+
+    @media (prefers-color-scheme: dark) {
+      color: $text-color-dark;
+    }
+
+  }
+}
+
+.nav {
+  color: $navlinks-color;
+}
+
+
+figure {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+pre,
+code {
+  overflow: auto;
+  font-size: 0.7*$base-font-size;
+  border-radius: 3px;
+  border: 1px solid $brand-color;
+  > code {
+    border: none;
+  }
+}
+
+pre {
+  padding: 1em;
+}
+
+code {
+  padding: 0.1em;
+}
+
+blockquote {
+  border-left: 2px solid $brand-color;
+  padding-left: 1em;
+  font-family: Georgia,Times,Times New Roman,serif;
+  font-size: 0.9*$base-font-size;
+  font-style: italic;
+}
+
+// articles 
+.atoc {
+  text-align: left;
+  position: relative;
+  left: 3%;
+  padding-left: 10px;
+  border-left: 1px dotted #444444;
+}
+
+.acm {
+  border-right: 3px inset #444444;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+.ac {
+  padding-left: 20px;
+}
+
+.s {
+  text-align: right; 
+  font-size: .7em;
+  padding-right: 89px;
+  a {
+    color: $text-color;
+    @media (prefers-color-scheme: dark) {
+      color: $text-color-dark;
+    }
+    text-decoration: none;
+    &:hover {
+      color: $navlinks-color;
+    } 
+  }
+}
+
+.acname {
+  padding: 0px 25px;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border: solid 2px #444444;
+  border-right: none;
+  border-left: none;
+}
+
+.ascname {
+  padding: 0px 25px;
+  margin-left: 50px;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  border: solid 2px #444444;
+  border-right: none;
+  border-left: none;
+}
+
+.headline, .post-headline {
+  font-size: 2em;
+  margin-bottom: -0.4em;
+
+  @include media-query($on-palm) {
+    font-size: 2em;
+  }
+}
+
+/* Pagination style in index/home page */
+.pagination {
+  margin: 2em 0;
+  text-align: center;
+
+  a {
+    &:hover {
+      background-color: transparent;
+      color: #333;
+    }
+  }
+
+  a, span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -4px;
+    margin-right: -4px;
+    background-color: transparent;
+    display: inline-block;
+  }
+}
+
+
+/* Add video class for iframes to make them responsive */
+.video {
+  width: 100%;
+}
+
+/* Add video class for iframes to make them responsive */
+.video {
+  width: 100%;
+  height: 360px;
+  @include media-query($on-laptop) {
+    height: 300px;
+  }
+  @include media-query($on-palm) {
+    height: 180px;
+  }
+}
+
+/* Horizontal Divider */
+.divider {
+  margin: 1em;
+}
+
+/* Horizontal scrolling navbar. From: https://is.gd/WuJxqy */
+.scroll {
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar; }
+
+.scroll::-webkit-scrollbar {
+  display: none; }
