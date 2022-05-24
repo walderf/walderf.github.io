@@ -118,6 +118,7 @@ description: a collecton of interesting articles on various subjects
 > Philosopher Peter Carruthers insists that conscious thought, judgment and volition are illusions. They arise from processes of which we are forever unaware
 
 [archive.org](https://web.archive.org/web/20181220163053/https://www.scientificamerican.com/article/there-is-no-such-thing-as-conscious-thought/)
+{: .s}
 
 <br />
 </div>
@@ -145,16 +146,24 @@ description: a collecton of interesting articles on various subjects
 </div>
 <br />
 
-<!--
-
 <div class="acm">
 
-# category 
+# general 
 {: .acname}
+
+["You’ll Worry Less About What People Think of You When You Realize How Seldom They Do"](https://quoteinvestigator.com/2014/09/09/worry-less/)
+
+> David Foster Wallace? Olin Miller? Lee Traveler? Ethel Barrett? Mark Twain? Anonymous?
+
+[imgur.com](https://i.imgur.com/nZ9CzRy.png) - [archive.today](https://archive.ph/cGO4M)
+{: .s}
+
 
 <br />
 </div>
 <br />
+
+<!--
 
 <div class="acm">
 

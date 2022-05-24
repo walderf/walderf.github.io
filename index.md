@@ -18,4 +18,4 @@ this site is officially "under construction" indefinitely so please feel free to
 
 <br /><br />
 
-<small>this site is based on the [Jekyll](https://jekyllrb.com/) theme [gradfolio](https://github.com/jitinnair1/gradfolio) and hosted on [github pages](https://pages.github.com/). the source code is available on my [github repo](https://github.com/walderf/walderf.github.io). please, free free to [report any issues](https://github.com/walderf/walderf.github.io/issues), thank you!</small>
+<small>this site is based on the [jekyll](https://jekyllrb.com/) theme [gradfolio](https://github.com/jitinnair1/gradfolio) and hosted on [github pages](https://pages.github.com/). the source code is available on my [github repo](https://github.com/walderf/walderf.github.io). please, free free to [report any issues](https://github.com/walderf/walderf.github.io/issues), thank you!</small>
