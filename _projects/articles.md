@@ -32,14 +32,14 @@ description: a collecton of interesting articles on various subjects
 > According to one theory, the internet is made of demons. Like most theories about the internet, this one is mostly circulated online.
 
 [imgur](https://i.imgur.com/V9wj86K.png) - [archive.org](https://web.archive.org/web/20220422001846/https://damagemag.com/2022/04/21/the-internet-is-made-of-demons/) - [archive.today](https://archive.ph/9TdkV)
-{: .s}
+{: .as}
 
 ["How the Blog Broke the Web"](https://stackingthebricks.com/how-blogs-broke-the-web/) 
 
 > I first got online in 1993, back when the Web had a capital letter — three, in fact — and long before irony stretched its legs and unbuttoned its flannel shirt. Back when you could really say you were surfing the net.
 
 [imgur](https://i.imgur.com/ItfoKgq.png) - [archive.org](https://web.archive.org/web/20180707000558/https://stackingthebricks.com/how-blogs-broke-the-web/) - [archive.today](https://archive.ph/fAaFA#)
-{: .s}
+{: .as}
 
 ["What Google Search Isn’t Showing You"](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
 
@@ -60,42 +60,42 @@ description: a collecton of interesting articles on various subjects
 > Data brokers claim that deidentified data on millions of Americans is risk-free. Lawmakers need to know that “anonymity” is an abstraction.
 
 [archive.org](https://web.archive.org/web/20220126232738/https://www.wired.com/story/big-data-may-not-know-your-name-but-it-knows-everything-else/) - [archive.today](https://archive.ph/UCp2H)
-{: .s}
+{: .as}
 
 ["Your Digital Footprint: It's Bigger Than You Realize"](https://www.cnet.com/news/privacy/features/your-digital-footprint-its-bigger-than-you-realize/)
 
 > Just about everything about you is online, whether you put it there or not. 
 
 [imgur](https://i.imgur.com/CjKEW6I.png) - [archive.org](https://web.archive.org/web/20220404120943/https://www.cnet.com/news/privacy/features/your-digital-footprint-its-bigger-than-you-realize/) - [archive.today](https://archive.ph/pEnG2)
-{: .s}
+{: .as}
 
 ["Researchers find way to spy on remote screens—through the webcam mic"](https://arstechnica.com/information-technology/2018/08/researchers-find-way-to-spy-on-remote-screens-through-the-webcam-mic/)
 
 > Remote audio plus machine learning equals rudimentary remote screen viewing.
 
 [archive.org](https://web.archive.org/web/20180829010501/https://arstechnica.com/information-technology/2018/08/researchers-find-way-to-spy-on-remote-screens-through-the-webcam-mic/)
-{: .s}
+{: .as}
 
 ["Ransomware-as-a-service: Understanding the cybercrime gig economy and how to protect yourself"](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/)
 
 > Microsoft processes 24 trillion signals every 24 hours, and we have blocked billions of attacks in the last year alone. Microsoft Security tracks more than 35 unique ransomware families and 250 unique threat actors across observed nation-state, ransomware, and criminal activities.
 
 [imgur](https://i.imgur.com/TJHmIKS.jpg) - [archive.org](https://web.archive.org/web/20220511030707/https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/)
-{: .s}
+{: .as}
 
 ["Mental Health Apps Aren't All As Private As You May Think"](https://www.consumerreports.org/health-privacy/mental-health-apps-and-user-privacy-a7415198244/)
 
 > Type “mental health” or a condition such as anxiety or depression into an app store search bar, and you can end up scrolling through endless screens of options. As a recent Consumer Reports investigation has found, these apps take widely varied approaches to helping people handle psychological challenges—and they are just as varied in how they handle the privacy of their users.
 
 [archive.org](https://web.archive.org/web/20220415152009/https://www.consumerreports.org/health-privacy/mental-health-apps-and-user-privacy-a7415198244/)
-{: .s}
+{: .as}
 
 ["Pegasus Spyware and Citizen Surveillance: What You Need to Know"](https://www.cnet.com/tech/mobile/pegasus-spyware-and-citizen-surveillance-what-you-need-to-know/) 
 
 > NSO Group's software targeted activists, journalists, politicians and executives. The US government, WhatsApp and Apple have taken action against it.
 
 [archive.org](https://web.archive.org/web/20220419130444/https://www.cnet.com/tech/mobile/pegasus-spyware-and-citizen-surveillance-what-you-need-to-know/) - [archive.today](https://archive.ph/wip/SL7y0)
-{: .s}
+{: .as}
 
 <br />
 
@@ -118,7 +118,7 @@ description: a collecton of interesting articles on various subjects
 > Philosopher Peter Carruthers insists that conscious thought, judgment and volition are illusions. They arise from processes of which we are forever unaware
 
 [archive.org](https://web.archive.org/web/20181220163053/https://www.scientificamerican.com/article/there-is-no-such-thing-as-conscious-thought/)
-{: .s}
+{: .as}
 
 <br />
 </div>
@@ -133,14 +133,14 @@ description: a collecton of interesting articles on various subjects
 > Six companies control 90% of what you read, watch, and hear. Here's why that's dangerous.
 
 [archive.org](https://web.archive.org/web/20220419004311/https://rebeccastrong.substack.com/p/big-media-big-conflicts-of-interest?s=r) - [archive.today](https://archive.ph/HiyRH)
-{: .s}
+{: .as}
 
 ["Former Intelligence Officials, Citing Russia, Say Big Tech Monopoly Power is Vital to National Security"](ttps://greenwald.substack.com/p/former-intelligence-officials-citing)
 
 > When the U.S. security state announces that Big Tech's centralized censorship power must be preserved, we should ask what this reveals about whom this regime serves.
 
 [imgur](https://i.imgur.com/vaKj43i.png) - [archive.org](https://web.archive.org/web/20220421013728/https://greenwald.substack.com/p/former-intelligence-officials-citing?s=r) - [archive.today](https://archive.ph/52BIj)
-{: .s}
+{: .as}
 
 <br />
 </div>
@@ -156,7 +156,7 @@ description: a collecton of interesting articles on various subjects
 > David Foster Wallace? Olin Miller? Lee Traveler? Ethel Barrett? Mark Twain? Anonymous?
 
 [imgur.com](https://i.imgur.com/nZ9CzRy.png) - [archive.today](https://archive.ph/cGO4M)
-{: .s}
+{: .as}
 
 
 <br />
@@ -180,7 +180,7 @@ description: a collecton of interesting articles on various subjects
 <!-- 
 
 [imgur]() - [archive.org]() - [archive.today](i)
-{: .s}
+{: .as}
 
 -->
 
