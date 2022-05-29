@@ -16,7 +16,7 @@ description: a collecton of interesting articles on various subjects
 
 </div>
 
-<small><b>note:</b> <i>mirrors of the original article, if available, are linked below it.</i></small>
+<span style="margin-left: 43px;"><small><b>note:</b> <i>mirrors of the original article, if available, are linked below it.</i></small></span>
 
 <br />
 
@@ -46,7 +46,7 @@ description: a collecton of interesting articles on various subjects
 > The search engine has made up so much of our online experience for so long that it can be hard to imagine something better.
 
 [archive.org](https://web.archive.org/web/20220313003254/https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
-
+{: .as}
 
 <br />
 
@@ -155,7 +155,7 @@ description: a collecton of interesting articles on various subjects
 
 > David Foster Wallace? Olin Miller? Lee Traveler? Ethel Barrett? Mark Twain? Anonymous?
 
-[imgur.com](https://i.imgur.com/nZ9CzRy.png) - [archive.today](https://archive.ph/cGO4M)
+[imgur](https://i.imgur.com/nZ9CzRy.png) - [archive.today](https://archive.ph/cGO4M)
 {: .as}
 
 

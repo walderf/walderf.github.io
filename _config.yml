@@ -35,7 +35,7 @@ compress_html:
 
 #collection
 collections:
-  projects:
+  things:
     output: true
     permalink: /things/:path/
 

@@ -27,22 +27,22 @@ description: various handy tools, utilities, and applications for the linux comm
 `bottom`
 {: .ct}
 
-system monitoring; basically top on steroids
-{: .cd}
-
 <https://github.com/ClementTsang/bottom>
 {: .cs}
+
+system monitoring; basically top on steroids
+{: .cd}
 
 <br />
 
 `dust` 
 {: .ct}
 
-du on steroids
-{: .cd}
-
 <https://github.com/bootandy/dust>
 {: .cs}
+
+du on steroids
+{: .cd}
 
 <br />
 </div>
@@ -58,22 +58,22 @@ du on steroids
 `ripgrep`
 {: .ct}
 
-faster grep
-{: .cd}
-
 <https://github.com/BurntSushi/ripgrep>
 {: .cs}
+
+faster grep
+{: .cd}
 
 <br />
 
 `fzf`
 {: .ct}
 
-fuzzy find
-{: .cd}
-
 <https://github.com/junegunn/fzf>
 {: .cs}
+
+fuzzy find
+{: .cd}
 
 <br />
 </div>
@@ -90,33 +90,33 @@ fuzzy find
 `difftastic`
 {: .ct}
 
-diff that understands syntax
-{: .cd}
-
 <https://github.com/Wilfred/difftastic>
 {: .cs}
+
+diff that understands syntax
+{: .cd}
 
 <br />
 
 `glow`
 {: .ct}
 
-basic markdown viewer
-{: .cd}
-
 <https://github.com/charmbracelet/glow>
 {: .cs}
+
+basic markdown viewer
+{: .cd}
 
 <br />
 
 `bat`
 {: .ct}
 
-cat
-{: .cd}
-
 <https://github.com/sharkdp/bat>
 {: .cs}
+
+cat
+{: .cd}
 
 <br />
 </div>
@@ -132,11 +132,11 @@ cat
 `tealdeer`
 {: .ct}
 
-tldr
-{: .cd}
-
 <https://github.com/dbrgn/tealdeer>
 {: .cs}
+
+tldr
+{: .cd}
 
 <br />
 </div>
@@ -151,11 +151,11 @@ tldr
 `yt-dlp`
 {: .ct}
 
-youtube-dl clone
-{: .cd}
-
 <https://github.com/yt-dlp/yt-dlp>
 {: .cs}
+
+youtube-dl clone
+{: .cd}
 
 <br />
 </div>

@@ -6,25 +6,20 @@ $base-line-height: 1.7;
 
 $spacing-unit:     30px;
 $light-gray: gray;
-$text-color: #1d1b1b;
 $background-color: #fdfdfd;
-$brand-color: #858551;
+$brand-color: #665800;
 $navlinks-color: #803100;
 
 
 // Color scheme for light
-//$body-bg: #f3e5d8;
-$body-bg: #faf5ef;
-$projectbox: #b3b322;
+$body-bg: #fffbe5;
 $text-color: #1d1b1b;
+$offset-bg-color: #fffdf0;
+
 
 // Color scheme for dark modes
 //$body-bg-dark: #061725;
-$body-bg-dark: #1a0d00;
-$projectbox-dark: lighten($body-bg-dark, 10%);
-$text-color-dark: #777;
-
-// Colour palette for project boxes
-$theme1: ("one",#388087),("two", #6FB3B8),("three",#BADFE7),("four",#C2EDCE),("five",#F6F6F2);
-$theme2: ("one",#E8DFE0),("two", #8D9B6A),("three",#8A9EA7),("four",#DAB692),("five",#8F5B34);
-$theme3: ("one",#78AAC3),("two", #C4DEED),("three",#97C8D6),("four",#EEAB74),("five",#F3CD86), ("six",#F5A280);
+//$body-bg-dark: #1a0d00;
+$body-bg-dark: #4d4200;
+$text-color-dark: #fffbe5;
+$offset-bg-color-dark: #6b5d00;

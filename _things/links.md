@@ -1,7 +1,7 @@
 ---
 layout: post
 title: links
-headline: some interesting links
+headline: some interesting (and sometimes useful) links
 description: various links to various things
 ---
 

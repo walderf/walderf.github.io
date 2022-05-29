@@ -1,4 +1,5 @@
-/* Project Page */
+// project page
+/*
 .ProjectContainer {
   max-width: 800px;
   margin: 0 auto;
@@ -8,12 +9,12 @@
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  /* Compensate for excess margin on outer gallery flex items */
+  // Compensate for excess margin on outer gallery flex items 
   margin: -1rem -1rem;
 }
 
 .projectTile {
-  /* Minimum width of 200px and grow to fit available space */
+  // Minimum width of 200px and grow to fit available space 
   flex: 1 0 200px;
   border-radius: 7px;
   background: $projectbox;
@@ -111,7 +112,6 @@
   }
 }
 
-
 @supports (display: grid) {
   .gallery {
     display: grid;
@@ -124,5 +124,7 @@
     margin: 0;
   }
 }
+
+*/
 
 //Based on: https://codepen.io/GeorgePark/pen/vdqYom
