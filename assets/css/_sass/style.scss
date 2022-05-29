@@ -13,7 +13,6 @@ body {
   padding: 2em 1em;
   text-rendering: optimizeLegibility;
   height: 100%;
-
   @media (prefers-color-scheme: dark) {
     background-color: $body-bg-dark;
     color: $text-color-dark;
@@ -46,6 +45,9 @@ a {
 
 .nav {
   color: $navlinks-color;
+  @media (prefers-color-scheme: dark) {
+    color: $navlinks-color-dark;
+  }
 }
 
 figure {
@@ -113,7 +115,10 @@ blockquote {
 .ct {
   margin-left: 17px;
   code {
-     background-color: #fffdf0;
+     background-color: $offset-bg-color;
+     @media (prefers-color-scheme: dark) {
+       background-color: $offset-bg-color-dark;
+     }
      font-size: 1.3em;
      font-weight: bold;
   }
@@ -198,6 +203,7 @@ blockquote {
 .atoc {
   background: $offset-bg-color;
   @media (prefers-color-scheme: dark) {
+    background: $offset-bg-color-dark;
     color: $text-color-dark;
   }
   text-align: left;
@@ -229,7 +235,8 @@ blockquote {
   border-left: none;
   background: $offset-bg-color;
   @media (prefers-color-scheme: dark) {
-    color: $offset-bg-color-dark;
+    background: $offset-bg-color-dark;
+    color: $text-color-dark;
   }
 }
 
@@ -243,7 +250,8 @@ blockquote {
   border-left: none;
   background: $offset-bg-color;
   @media (prefers-color-scheme: dark) {
-    color: $offset-bg-color-dark;
+    background: $offset-bg-color-dark;
+    color: $text-color-dark;
   }
 }
 
