@@ -128,7 +128,10 @@ blockquote {
 .cd {
   font-style: italic;
   margin-left: 23px;
-  border-bottom: 1px solid #767676;
+  border-bottom: 1px solid $sepline;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $sepline-dark; 
+  }
   border-radius: 7px 3px 6px 3px/1px 1px 3px 5px;
   margin-right: 76px;
   padding-bottom: 11px;
@@ -141,7 +144,10 @@ blockquote {
 // books source (just the line seperator for now)
 
 .bs {
-  border-bottom: 1px solid #767676;
+  border-bottom: 1px solid $sepline;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $sepline-dark; 
+  }
   border-radius: 11px 11px 15px 3px/35px 15px 7px 15px;
   margin-right: 47px;
   margin-left: 17px;
@@ -156,7 +162,10 @@ blockquote {
   font-size: .9em;
   text-align: right;
   padding-right: 89px;
-  border-bottom: 1px solid #767676;
+  border-bottom: 1px solid $sepline;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $sepline-dark; 
+  }
   border-radius: 11px 11px 15px 3px/35px 15px 7px 15px;
   margin-right: 53px;
   margin-left: 142px;
@@ -190,7 +199,10 @@ blockquote {
       color: $navlinks-color;
     }
   }
-  border-bottom: 1px solid #767676;
+  border-bottom: 1px solid $sepline;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $sepline-dark; 
+  }
   border-radius: 11px 11px 15px 3px/35px 15px 7px 15px;
   margin-right: 47px;
   margin-left: 17px;
@@ -212,12 +224,18 @@ blockquote {
   left: 3%;
   padding-left: 10px;
   line-height: 1.4em;
-  border-left: 1px dotted #444444;
+  border-left: 1px dotted $handdrawn;
+  @media (prefers-color-scheme: dark) {
+    border-right: 1px dotted $handdrawn-dark; 
+  }
 }
 
 // "hand drawn" main category box
 .acm {
-  border-right: 3px inset #444444;
+  border-right: 3px solid $handdrawn;
+  @media (prefers-color-scheme: dark) {
+    border-right: 3px solid $handdrawn-dark; 
+  }
   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
 }
 
@@ -230,7 +248,10 @@ blockquote {
 .acname {
   padding: 0px 25px;
   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-  border: solid 2px #444444;
+  border: 2px solid $handdrawn;
+  @media (prefers-color-scheme: dark) {
+    border: 2px solid $handdrawn-dark; 
+  }
   border-right: none;
   border-left: none;
   background: $offset-bg-color;
@@ -245,7 +266,10 @@ blockquote {
   padding: 0px 25px;
   margin-left: 50px;
   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-  border: solid 2px #444444;
+  border: 2px solid $handdrawn;
+  @media (prefers-color-scheme: dark) {
+    border: 2px solid $handdrawn-dark; 
+  }
   border-right: none;
   border-left: none;
   background: $offset-bg-color;
