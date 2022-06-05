@@ -91,6 +91,22 @@ blockquote {
   font-style: italic;
 }
 
+.article-list {
+  h2 {
+    line-height: 1em;
+  }
+
+  p {
+    margin: 5px;
+    padding: 5px;
+    line-height: 1em;
+  }
+}
+
+.ald {
+  margin-left: 11px;
+}
+
 .things {
   max-width: 800px;
   margin: 0 auto;

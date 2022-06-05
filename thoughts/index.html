@@ -6,8 +6,8 @@ layout: default
 
 <div class="article-list">
   {% for post in paginator.posts %}
-    <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p><i><small>{{post.date | date_to_string: "ordinal", "US"}}</small></i></p>
+  <h2>><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    <p><span class="ald"><i><small>{{post.date | date_to_string: "ordinal", "US"}}</small></i></span</p>
     <p>{{post.excerpt | strip_html}}</p>
   {% endfor %}
 </div>
@@ -18,7 +18,7 @@ layout: default
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>&laquo; prev</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -34,7 +34,7 @@ layout: default
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span>next &raquo;</span>
   {% endif %}
 </div>
 {% endif %}
