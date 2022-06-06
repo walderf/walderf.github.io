@@ -32,7 +32,7 @@ Internet-related links across various topics.
 {: .ascname}
 
 ### Privacy Guides
-{: .lst}
+{: .lst, .no_toc}
 
 The guide to restoring your online privacy. Massive organizations are monitoring your online activities. Privacy Guides is your central privacy and security resource to protect yourself online.
 {: .lsc}
@@ -41,7 +41,7 @@ The guide to restoring your online privacy. Massive organizations are monitoring
 {: .lss}
 
 ### THE NEW OIL
-{: .lst}
+{: .lst, .no_toc}
 
 The beginner's guide to data privacy & cybersecurity.
 {: .lsc}
@@ -51,7 +51,7 @@ The beginner's guide to data privacy & cybersecurity.
 
 
 ### The Hitchhiker’s Guide to Online Anonymity
-{: .lst}
+{: .lst, .no_toc}
 
 How *(the author)* learned to start worrying and love ~~privacy~~ anonymity.
 {: .lsc}
@@ -60,7 +60,7 @@ How *(the author)* learned to start worrying and love ~~privacy~~ anonymity.
 {: .lss}
 
 ### Privacy Tools
-{: .lst}
+{: .lst, .no_toc}
 
 You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools.io provides services, tools and privacy guides to counter global mass surveillance.
 {: .lsc}
@@ -69,7 +69,7 @@ You are being watched. Private and state-sponsored organizations are monitoring 
 {: .lss}
 
 ### Privacy Tests
-{: .lst}
+{: .lst, .no_toc}
 
 Open-source tests of web browser privacy.
 {: .lsc}
@@ -84,7 +84,7 @@ Open-source tests of web browser privacy.
 {: .ascname}
 
 ### Arkenfox
-{: .lst}
+{: .lst, .no_toc}
 
 The arkenfox user.js is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen).
 {: .lsc}
@@ -99,7 +99,7 @@ The arkenfox user.js is a template which aims to provide as much privacy and enh
 {: .ascname}
 
 ### Madaidan's Insecurities 
-{: .lst}
+{: .lst, .no_toc}
 
 Security & Privacy Evaluations -- A list of analyses regarding security and privacy-focused topics.
 {: .lsc}
@@ -108,7 +108,8 @@ Security & Privacy Evaluations -- A list of analyses regarding security and priv
 {: .lss}
 
 ### Password Entropy Calculator
-{: .lst}
+{: .lst, .no_toc}
+
 
 Calculates the relative strength of a password.
 {: .lsc}
@@ -117,7 +118,7 @@ Calculates the relative strength of a password.
 {: .lss}
 
 ### KrebsonSecurity
-{: .lst}
+{: .lst, .no_toc}
 
 In-depth security news and investigation.
 {: .lsc}
@@ -126,7 +127,7 @@ In-depth security news and investigation.
 {: .lss}
 
 ### BleepingComputer 
-{: .lst}
+{: .lst, .no_toc}
 
 An information security and technology news publication.
 {: .lsc}
@@ -141,7 +142,7 @@ An information security and technology news publication.
 {: .ascname}
 
 ### The web now-a-days
-{: .lst}
+{: .lst, .no_toc}
 
 A website dedicated to today's web technologies. 
 {: .lsc}
@@ -150,7 +151,7 @@ A website dedicated to today's web technologies.
 {: .lss}
 
 ### Web Economy Bullshit Generator
-{: .lst}
+{: .lst, .no_toc}
 
 Click the make bullshit button. Watch bullshit appear in the box.
 {: .lsc}
@@ -178,7 +179,7 @@ Click the make bullshit button. Watch bullshit appear in the box.
 {: .ascname}
 
 ###  Linux Foundation's Linux workstation security checklist
-{: .lst}
+{: .lst, .no_toc}
 
 A set of baseline recommendations to avoid most glaring security errors without introducing too much inconvenience.
 {: .lsc}
@@ -187,7 +188,7 @@ A set of baseline recommendations to avoid most glaring security errors without 
 {: .lss}
 
 ### Madaidan’s Linux Hardening Guide
-{: .lst}
+{: .lst, .no_toc}
 
 Linux is not a secure operating system. However, there are steps you can take to improve it. This guide aims to explain how to harden Linux as much as possible for security and privacy. This guide attempts to be distribution-agnostic and is not tied to any specific one.
 {: .lsc}
@@ -196,7 +197,7 @@ Linux is not a secure operating system. However, there are steps you can take to
 {: .lss}
 
 ### System Administration – Post Installation Tasks
-{: .lst}
+{: .lst, .no_toc}
 
 This guide is a checklist of tasks required or recommended after a basic installation to ensure safe and reliable operation.
 {: .lsc}
@@ -211,7 +212,7 @@ This guide is a checklist of tasks required or recommended after a basic install
 {: .ascname}
 
 ### grml's zsh 
-{: .lst}
+{: .lst, .no_toc}
 
 home of grml-zsh-config - ***the*** zsh config
 {: .lsc}
@@ -220,7 +221,7 @@ home of grml-zsh-config - ***the*** zsh config
 {: .lss}
 
 ### Learning the Shell
-{: .lst}
+{: .lst, .no_toc}
 
 "I once heard an author say that when you are a child you use a computer by looking at the pictures. When you grow up, you learn to read and write. Welcome to Computer Literacy 101. Now let's get to work."
 {: .lsc}
@@ -229,7 +230,7 @@ home of grml-zsh-config - ***the*** zsh config
 {: .lss}
 
 ### ShellCheck
-{: .lst}
+{: .lst, .no_toc}
 
 Finds bugs in your shell scripts. 
 {: .lsc}
@@ -238,7 +239,7 @@ Finds bugs in your shell scripts.
 {: .lss}
 
 ### Bash Scripting Cheat Sheet
-{: .lst}
+{: .lst, .no_toc}
 
 "The only bash scripting cheat sheeet that you will ever need."
 {: .lsc}
@@ -282,7 +283,7 @@ Finds bugs in your shell scripts.
 {: .ascname}
 
 ### vermaden's sysadmin blog
-{: .lst}
+{: .lst, .no_toc}
 
 lots of FreeBSD and server related guides from a sysadmin
 {: .lsc}
@@ -291,7 +292,7 @@ lots of FreeBSD and server related guides from a sysadmin
 {: .lss}
 
 ### CALOMEL 
-{: .lst}
+{: .lst, .no_toc}
 
 "Open Source Research and Reference" --  lots of guides, etc.
 {: .lsc}
@@ -300,7 +301,7 @@ lots of FreeBSD and server related guides from a sysadmin
 {: .lss}
 
 ### RoseHosting blog
-{: .lst}
+{: .lst, .no_toc}
 
 hundreds of linux related posts with good information
 {: .lsc}
@@ -309,7 +310,7 @@ hundreds of linux related posts with good information
 {: .lss}
 
 ### Kyau's Arch Linux Wiki 
-{: .lst}
+{: .lst, .no_toc}
 
 solid, detailed hardening configurations and various tips
 {: .lsc}
@@ -336,7 +337,7 @@ solid, detailed hardening configurations and various tips
 
 
 ### joplin/plugins
-{: .lst}
+{: .lst, .no_toc}
 
 official joplin plugin repository
 {: .lsc}
@@ -346,7 +347,7 @@ official joplin plugin repository
 
 
 ### systemd tips & tricks 
-{: .lst}
+{: .lst, .no_toc}
 
 tips & tricks for systemd
 {: .lsc}
@@ -356,7 +357,7 @@ tips & tricks for systemd
 
 
 ### fzf usage examples
-{: .lst}
+{: .lst, .no_toc}
 
 fzf implementations, usage examples, scripts, etc.
 {: .lsc}
@@ -365,7 +366,7 @@ fzf implementations, usage examples, scripts, etc.
 {: .lss}
 
 ### Vim cheatsheet 
-{: .lst}
+{: .lst, .no_toc}
 
 Vim is a very efficient text editor. This reference was made for Vim 8.0. 
 {: .lsc}
@@ -374,7 +375,7 @@ Vim is a very efficient text editor. This reference was made for Vim 8.0.
 {: .lss}
 
 ### Vim Cheat Sheet
-{: .lst}
+{: .lst, .no_toc}
 
 another handy vim cheatsheet. 
 {: .lsc}
@@ -433,7 +434,7 @@ another handy vim cheatsheet.
 <div class="ac">
 
 ### awesome-selfhosted 
-{: .lt}
+{: .lt, .no_toc}
 
 a list of software for self-hosting of services
 {: lc}
@@ -442,7 +443,7 @@ a list of software for self-hosting of services
 {: .ls}
 
 ### awesome-sysadmin
-{: .lt}
+{: .lt, .no_toc}
 
 a list of open source sysadmin resources
 {: lc}
@@ -451,7 +452,7 @@ a list of open source sysadmin resources
 {: .ls}
 
 ### awesome-security
-{: .lt}
+{: .lt, .no_toc}
 
 a list of security related software, libraries, resources, etc
 {: lc}
@@ -460,7 +461,7 @@ a list of security related software, libraries, resources, etc
 {: .ls}
 
 ### the book of secret knowledge
-{: .lt}
+{: .lt, .no_toc}
 
 manuals, cheatsheets, blogs, hacks, one-liners, cli tools, etc
 {: lc}
@@ -469,7 +470,7 @@ manuals, cheatsheets, blogs, hacks, one-liners, cli tools, etc
 {: .ls}
 
 ### Malware Analysis Tools List
-{: lt}
+{: .lt, .no_toc}
 
 A curated list of awesome malware analysis tools and resources.
 {: .lc}
@@ -492,7 +493,7 @@ A curated list of awesome malware analysis tools and resources.
 <div class="ac">
 
 ### gh-trends
-{: .lt}
+{: .lt, .no_toc}
 
 GitHub star history plots 
 {: lc}
@@ -501,7 +502,7 @@ GitHub star history plots
 {: .ls}
 
 ### GitPop3
-{: .lt}
+{: .lt, .no_toc}
 
 Find the most popular fork on GitHub.
 {: lc}
@@ -510,7 +511,7 @@ Find the most popular fork on GitHub.
 {: .ls}
 
 ### emoji-cheat-sheet
-{: .lt}
+{: .lt, .no_toc}
 
 This cheat sheet is automatically generated from GitHub Emoji API and Unicode Full Emoji List.
 {: .lc}
@@ -533,7 +534,7 @@ This cheat sheet is automatically generated from GitHub Emoji API and Unicode Fu
 <div class="ac">
 
 ### "This Mysterious Computer Could Prove Time Travel Exists"
-{: .lt}
+{: .lt, .no_toc}
 
 The Mystery of the Dodleston Messages
 {: .lc}
