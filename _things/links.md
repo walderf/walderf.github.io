@@ -77,7 +77,8 @@ Open-source tests of web browser privacy.
 --\> <https://www.privacytests.org>
 {: .lss}
 
-<br />
+[` ^ top`](#)
+{: .t}
 
 ## browser hardening
 {: .ascname}
@@ -91,7 +92,8 @@ The arkenfox user.js is a template which aims to provide as much privacy and enh
 --\> <https://github.com/arkenfox/user.js/wiki>
 {: .lss}
 
-<br />
+[` ^ top`](#)
+{: .t}
 
 ## security 
 {: .ascname}
@@ -132,7 +134,8 @@ An information security and technology news publication.
 --\> <https://www.bleepingcomputer.com>
 {: .lss}
 
-<br />
+[` ^ top`](#)
+{: .t}
 
 ## random
 {: .ascname}
@@ -155,13 +158,12 @@ Click the make bullshit button. Watch bullshit appear in the box.
 --\> <https://www.dack.com/web/bullshit.html>
 {: .lss}
 
-
-<br />
-</div>
-</div>
-
 [` ^ top`](#)
 {: .t}
+
+</div>
+</div>
+<br />
 
 <div class="acm">
 
@@ -202,7 +204,8 @@ This guide is a checklist of tasks required or recommended after a basic install
 --\> <https://docs.fedoraproject.org/en-US/fedora-server/sysadmin-postinstall/>
 {: .lss}
 
-<br />
+[` ^ top`](#)
+{: .t}
 
 ## shells 
 {: .ascname}
@@ -272,7 +275,8 @@ Finds bugs in your shell scripts.
 {: .lss}
 -->
 
-<br />
+[` ^ top`](#)
+{: .t}
 
 ## guides / blogs
 {: .ascname}
@@ -324,7 +328,8 @@ solid, detailed hardening configurations and various tips
 {: .lss}
 -->
 
-<br />
+[` ^ top`](#)
+{: .t}
 
 ## software
 {: .ascname}
@@ -388,12 +393,12 @@ another handy vim cheatsheet.
 {: .lss}
 -->
 
-<br />
-</div>
-</div>
-
 [` ^ top`](#)
 {: .t}
+
+</div>
+</div>
+<br />
 
 <!--
 <div class="acm">
@@ -472,12 +477,12 @@ A curated list of awesome malware analysis tools and resources.
 --\> <https://0x1.gitlab.io/security/Malware-Analysis-Tools-List/>
 {: .ls}
 
-<br />
-</div>
-</div>
-
 [` ^ top`](#)
 {: .t}
+
+</div>
+</div>
+<br />
 
 <div class="acm">
 
@@ -513,12 +518,12 @@ This cheat sheet is automatically generated from GitHub Emoji API and Unicode Fu
 --\> <https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md>
 {: .ls}
 
-<br />
-</div>
-</div>
-
 [` ^ top`](#)
 {: .t}
+
+</div>
+</div>
+<br />
 
 <div class="acm">
 
@@ -536,11 +541,10 @@ The Mystery of the Dodleston Messages
 --\> <https://www.youtube.com/watch?v=nEDgG5MKndo>
 {: .ls}
 
-<br />
-</div>
-</div>
-
 [` ^ top`](#)
 {: .t}
 
+</div>
+</div>
+<br />
 

@@ -47,7 +47,10 @@ du on steroids
 <br />
 </div>
 </div>
-<br />
+
+[` ^ top`](#)
+{: .t}
+
 <div class="acm">
 
 # searching text
@@ -78,7 +81,10 @@ fuzzy find
 <br />
 </div>
 </div>
-<br />
+
+[` ^ top`](#)
+{: .t}
+
 <div class="acm">
 
 # viewing text
@@ -121,7 +127,10 @@ cat
 <br />
 </div>
 </div>
-<br />
+
+[` ^ top`](#)
+{: .t}
+
 <div class="acm">
 
 # help / documentation
@@ -141,7 +150,10 @@ tldr
 <br />
 </div>
 </div>
-<br />
+
+[` ^ top`](#)
+{: .t}
+
 <div class="acm">
 
 # downloading
@@ -160,6 +172,9 @@ youtube-dl clone
 <br />
 </div>
 </div>
+
+[` ^ top`](#)
+{: .t}
 
 
 

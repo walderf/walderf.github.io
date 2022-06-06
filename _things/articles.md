@@ -48,7 +48,8 @@ description: a collecton of interesting articles on various subjects
 [archive.org](https://web.archive.org/web/20220313003254/https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
 {: .as}
 
-<br />
+[` ^ top`](#)
+{: .t}
 
 ## privacy
 {: .ascname}
@@ -97,17 +98,26 @@ description: a collecton of interesting articles on various subjects
 [archive.org](https://web.archive.org/web/20220419130444/https://www.cnet.com/tech/mobile/pegasus-spyware-and-citizen-surveillance-what-you-need-to-know/) - [archive.today](https://archive.ph/wip/SL7y0)
 {: .as}
 
-<br />
+[` ^ top`](#)
+{: .ts}
 
-<!-- # security 
+## security 
 {: .ascname}
--->
 
-<br />
+["Alarming Cyber Statistics For Mid-Year 2022 That You Need To Know"](https://www.forbes.com/sites/chuckbrooks/2022/06/03/alarming-cyber-statistics-for-mid-year-2022-that-you-need-to-know/?sh=24148d847864)
+
+> A couple of times per year, I take a deep dive on writing about the newly reported cybersecurity statistics and trends that are impacting the digital landscape. Unfortunately, despite global efforts, every subsequent year the numbers get worse and show that we are far from being able to mitigate and contain the numerous cyber-threats targeting both industry and government. 
+
+[imgur](https://i.imgur.com/aW7VflV.jpg) - [archive.org](https://web.archive.org/web/20220606070525/https://www.forbes.com/sites/chuckbrooks/2022/06/03/alarming-cyber-statistics-for-mid-year-2022-that-you-need-to-know/) - [archive.today](https://archive.ph/wip/J8vjV)
+{: .as}
+
+[` ^ top`](#)
+{: .ts}
+
 </div>
 </div>
 </div>
-<br/>
+
 <div class="acm">
 
 # health and mind 
@@ -120,9 +130,12 @@ description: a collecton of interesting articles on various subjects
 [archive.org](https://web.archive.org/web/20181220163053/https://www.scientificamerican.com/article/there-is-no-such-thing-as-conscious-thought/)
 {: .as}
 
-<br />
+[` ^ top`](#)
+{: .t}
+
 </div>
 <br />
+
 <div class="acm">
 
 # big reality  
@@ -142,7 +155,9 @@ description: a collecton of interesting articles on various subjects
 [imgur](https://i.imgur.com/vaKj43i.png) - [archive.org](https://web.archive.org/web/20220421013728/https://greenwald.substack.com/p/former-intelligence-officials-citing?s=r) - [archive.today](https://archive.ph/52BIj)
 {: .as}
 
-<br />
+[` ^ top`](#)
+{: .t}
+
 </div>
 <br />
 
@@ -158,8 +173,9 @@ description: a collecton of interesting articles on various subjects
 [imgur](https://i.imgur.com/nZ9CzRy.png) - [archive.today](https://archive.ph/cGO4M)
 {: .as}
 
+[` ^ top`](#)
+{: .t}
 
-<br />
 </div>
 <br />
 
