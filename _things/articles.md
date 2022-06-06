@@ -99,7 +99,7 @@ description: a collecton of interesting articles on various subjects
 {: .as}
 
 [` ^ top`](#)
-{: .ts}
+{: .t}
 
 ## security 
 {: .ascname}
@@ -112,7 +112,7 @@ description: a collecton of interesting articles on various subjects
 {: .as}
 
 [` ^ top`](#)
-{: .ts}
+{: .t}
 
 </div>
 </div>

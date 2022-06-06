@@ -177,14 +177,13 @@ blockquote {
 .qs {
   font-size: .9em;
   text-align: right;
-  padding-right: 89px;
   border-bottom: 1px solid $sepline;
   @media (prefers-color-scheme: dark) {
     border-bottom: 1px solid $sepline-dark; 
   }
   border-radius: 11px 11px 15px 3px/35px 15px 7px 15px;
   margin-right: 53px;
-  margin-left: 142px;
+  margin-left: 49px;
   padding-bottom: 7px;
 }
 
@@ -195,7 +194,6 @@ blockquote {
     font-size: 1.1em;
   }
   font-weight: bold;
-  padding-left: 20px;
 }
 
 ////////// links
@@ -226,13 +224,13 @@ blockquote {
 
 .lst {
   padding-top: 15px;
-  padding-left: 67px;
+  padding-left: 22px;
   line-height: 1.1em;
 }
 
 .lsc {
   font-size: 1em;
-  padding-left: 78px;
+  padding-left: 33px;
 }
 
 .lss {
@@ -245,7 +243,7 @@ blockquote {
   }
   border-radius: 11px 11px 15px 3px/35px 15px 7px 15px;
   margin-right: 47px;
-  margin-left: 85px;
+  margin-left: 37px;
   padding-bottom: 15px;
 }
 
@@ -324,7 +322,7 @@ blockquote {
 
 // "hand drawn" sub- (or solo) category box
 .ac {
-  padding-left: 20px;
+  padding-left: 5px;
 }
 
 // category name
@@ -347,7 +345,7 @@ blockquote {
 // category sub-name 
 .ascname {
   padding: 0px 25px;
-  margin-left: 50px;
+  margin-left: 5px;
   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
   border: 2px solid $handdrawn;
   @media (prefers-color-scheme: dark) {

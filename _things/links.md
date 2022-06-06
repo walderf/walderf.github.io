@@ -37,7 +37,7 @@ Internet-related links across various topics.
 The guide to restoring your online privacy. Massive organizations are monitoring your online activities. Privacy Guides is your central privacy and security resource to protect yourself online.
 {: .lsc}
 
---\> <https://www.privacyguides.org>
+<https://www.privacyguides.org>
 {: .lss}
 
 ### THE NEW OIL
@@ -46,7 +46,7 @@ The guide to restoring your online privacy. Massive organizations are monitoring
 The beginner's guide to data privacy & cybersecurity.
 {: .lsc}
 
---\> <https://thenewoil.org>
+<https://thenewoil.org>
 {: .lss}
 
 
@@ -56,7 +56,7 @@ The beginner's guide to data privacy & cybersecurity.
 How *(the author)* learned to start worrying and love ~~privacy~~ anonymity.
 {: .lsc}
 
---\> <https://anonymousplanet-ng.org/guide.html>
+<https://anonymousplanet-ng.org/guide.html>
 {: .lss}
 
 ### Privacy Tools
@@ -65,7 +65,7 @@ How *(the author)* learned to start worrying and love ~~privacy~~ anonymity.
 You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools.io provides services, tools and privacy guides to counter global mass surveillance.
 {: .lsc}
 
---\> <https://www.privacytools.io>
+<https://www.privacytools.io>
 {: .lss}
 
 ### Privacy Tests
@@ -74,7 +74,7 @@ You are being watched. Private and state-sponsored organizations are monitoring 
 Open-source tests of web browser privacy.
 {: .lsc}
 
---\> <https://www.privacytests.org>
+<https://www.privacytests.org>
 {: .lss}
 
 [` ^ top`](#)
@@ -89,7 +89,7 @@ Open-source tests of web browser privacy.
 The arkenfox user.js is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen).
 {: .lsc}
 
---\> <https://github.com/arkenfox/user.js/wiki>
+<https://github.com/arkenfox/user.js/wiki>
 {: .lss}
 
 [` ^ top`](#)
@@ -104,7 +104,7 @@ The arkenfox user.js is a template which aims to provide as much privacy and enh
 Security & Privacy Evaluations -- A list of analyses regarding security and privacy-focused topics.
 {: .lsc}
 
---\> <https://madaidans-insecurities.github.io>
+<https://madaidans-insecurities.github.io>
 {: .lss}
 
 ### Password Entropy Calculator
@@ -114,7 +114,7 @@ Security & Privacy Evaluations -- A list of analyses regarding security and priv
 Calculates the relative strength of a password.
 {: .lsc}
 
---\> <https://alecmccutcheon.github.io/Password-Entropy-Calculator>
+<https://alecmccutcheon.github.io/Password-Entropy-Calculator>
 {: .lss}
 
 ### KrebsonSecurity
@@ -123,7 +123,7 @@ Calculates the relative strength of a password.
 In-depth security news and investigation.
 {: .lsc}
 
---\> <https://krebsonsecurity.com>
+<https://krebsonsecurity.com>
 {: .lss}
 
 ### BleepingComputer 
@@ -132,7 +132,7 @@ In-depth security news and investigation.
 An information security and technology news publication.
 {: .lsc}
 
---\> <https://www.bleepingcomputer.com>
+<https://www.bleepingcomputer.com>
 {: .lss}
 
 [` ^ top`](#)
@@ -147,7 +147,7 @@ An information security and technology news publication.
 A website dedicated to today's web technologies. 
 {: .lsc}
 
---\> <https://how-i-experience-web-today.com>
+<https://how-i-experience-web-today.com>
 {: .lss}
 
 ### Web Economy Bullshit Generator
@@ -156,7 +156,7 @@ A website dedicated to today's web technologies.
 Click the make bullshit button. Watch bullshit appear in the box.
 {: .lsc}
 
---\> <https://www.dack.com/web/bullshit.html>
+<https://www.dack.com/web/bullshit.html>
 {: .lss}
 
 [` ^ top`](#)
@@ -184,7 +184,7 @@ Click the make bullshit button. Watch bullshit appear in the box.
 A set of baseline recommendations to avoid most glaring security errors without introducing too much inconvenience.
 {: .lsc}
 
---\> <https://github.com/lfit/itpol/blob/master/linux-workstation-security.md>
+<https://github.com/lfit/itpol/blob/master/linux-workstation-security.md>
 {: .lss}
 
 ### Madaidan’s Linux Hardening Guide
@@ -193,7 +193,7 @@ A set of baseline recommendations to avoid most glaring security errors without 
 Linux is not a secure operating system. However, there are steps you can take to improve it. This guide aims to explain how to harden Linux as much as possible for security and privacy. This guide attempts to be distribution-agnostic and is not tied to any specific one.
 {: .lsc}
 
---\> <https://madaidans-insecurities.github.io/guides/linux-hardening.html>
+<https://madaidans-insecurities.github.io/guides/linux-hardening.html>
 {: .lss}
 
 ### System Administration – Post Installation Tasks
@@ -202,7 +202,7 @@ Linux is not a secure operating system. However, there are steps you can take to
 This guide is a checklist of tasks required or recommended after a basic installation to ensure safe and reliable operation.
 {: .lsc}
 
---\> <https://docs.fedoraproject.org/en-US/fedora-server/sysadmin-postinstall/>
+<https://docs.fedoraproject.org/en-US/fedora-server/sysadmin-postinstall/>
 {: .lss}
 
 [` ^ top`](#)
@@ -217,7 +217,7 @@ This guide is a checklist of tasks required or recommended after a basic install
 home of grml-zsh-config - ***the*** zsh config
 {: .lsc}
 
---\> <https://grml.org/zsh/>
+<https://grml.org/zsh/>
 {: .lss}
 
 ### Learning the Shell
@@ -226,7 +226,7 @@ home of grml-zsh-config - ***the*** zsh config
 "I once heard an author say that when you are a child you use a computer by looking at the pictures. When you grow up, you learn to read and write. Welcome to Computer Literacy 101. Now let's get to work."
 {: .lsc}
 
---\> <https://linuxcommand.org/lc3_learning_the_shell.php>
+<https://linuxcommand.org/lc3_learning_the_shell.php>
 {: .lss}
 
 ### ShellCheck
@@ -235,7 +235,7 @@ home of grml-zsh-config - ***the*** zsh config
 Finds bugs in your shell scripts. 
 {: .lsc}
 
---\> <https://www.shellcheck.net>
+<https://www.shellcheck.net>
 {: .lss}
 
 ### Bash Scripting Cheat Sheet
@@ -244,7 +244,7 @@ Finds bugs in your shell scripts.
 "The only bash scripting cheat sheeet that you will ever need."
 {: .lsc}
 
---\> <https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7>
+<https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7>
 {: .lss}
 
 <!--
@@ -254,7 +254,7 @@ Finds bugs in your shell scripts.
 
 {: .lsc}
 
---\> <>
+<>
 {: .lss}
 
 ### 
@@ -263,7 +263,7 @@ Finds bugs in your shell scripts.
 
 {: .lsc}
 
---\> <>
+<>
 {: .lss}
 
 ### 
@@ -272,7 +272,7 @@ Finds bugs in your shell scripts.
 
 {: .lsc}
 
---\> <>
+<>
 {: .lss}
 -->
 
@@ -288,7 +288,7 @@ Finds bugs in your shell scripts.
 lots of FreeBSD and server related guides from a sysadmin
 {: .lsc}
 
---\> <https://vermaden.wordpress.com>
+<https://vermaden.wordpress.com>
 {: .lss}
 
 ### CALOMEL 
@@ -297,7 +297,7 @@ lots of FreeBSD and server related guides from a sysadmin
 "Open Source Research and Reference" --  lots of guides, etc.
 {: .lsc}
 
---\> <https://calomel.org>
+<https://calomel.org>
 {: .lss}
 
 ### RoseHosting blog
@@ -306,7 +306,7 @@ lots of FreeBSD and server related guides from a sysadmin
 hundreds of linux related posts with good information
 {: .lsc}
 
---\> <https://www.rosehosting.com/blog/>
+<https://www.rosehosting.com/blog/>
 {: .lss}
 
 ### Kyau's Arch Linux Wiki 
@@ -315,7 +315,7 @@ hundreds of linux related posts with good information
 solid, detailed hardening configurations and various tips
 {: .lsc}
 
---\> <https://kyau.net/wiki/Category:Arch_Linux>
+<https://kyau.net/wiki/Category:Arch_Linux>
 {: .lss}
 
 <!--
@@ -325,7 +325,7 @@ solid, detailed hardening configurations and various tips
 
 {: .lsc}
 
---\> <>
+<>
 {: .lss}
 -->
 
@@ -342,7 +342,7 @@ solid, detailed hardening configurations and various tips
 official joplin plugin repository
 {: .lsc}
 
---\> <https://github.com/joplin/plugins>
+<https://github.com/joplin/plugins>
 {: .lss}
 
 
@@ -352,7 +352,7 @@ official joplin plugin repository
 tips & tricks for systemd
 {: .lsc}
 
---\> <https://www.freedesktop.org/wiki/Software/systemd/TipsAndTricks/>
+<https://www.freedesktop.org/wiki/Software/systemd/TipsAndTricks/>
 {: .lss}
 
 
@@ -362,7 +362,7 @@ tips & tricks for systemd
 fzf implementations, usage examples, scripts, etc.
 {: .lsc}
 
---\> <https://github.com/junegunn/fzf#usage>
+<https://github.com/junegunn/fzf#usage>
 {: .lss}
 
 ### Vim cheatsheet 
@@ -371,7 +371,7 @@ fzf implementations, usage examples, scripts, etc.
 Vim is a very efficient text editor. This reference was made for Vim 8.0. 
 {: .lsc}
 
---\> <https://devhints.io/vim>
+<https://devhints.io/vim>
 {: .lss}
 
 ### Vim Cheat Sheet
@@ -380,7 +380,7 @@ Vim is a very efficient text editor. This reference was made for Vim 8.0.
 another handy vim cheatsheet. 
 {: .lsc}
 
---\> <https://vim.rtorr.com>
+<https://vim.rtorr.com>
 {: .lss}
 
 <!--
@@ -390,7 +390,7 @@ another handy vim cheatsheet.
 
 {: .lsc}
 
---\> <>
+<>
 {: .lss}
 -->
 
@@ -415,7 +415,7 @@ another handy vim cheatsheet.
 
 {: lc}
 
---\> <>
+<>
 {: .ls}
 
 <br />
@@ -439,7 +439,7 @@ another handy vim cheatsheet.
 a list of software for self-hosting of services
 {: lc}
 
---\> <https://github.com/awesome-selfhosted/awesome-selfhosted>
+<https://github.com/awesome-selfhosted/awesome-selfhosted>
 {: .ls}
 
 ### awesome-sysadmin
@@ -448,7 +448,7 @@ a list of software for self-hosting of services
 a list of open source sysadmin resources
 {: lc}
 
---\> <https://github.com/awesome-foss/awesome-sysadmin>
+<https://github.com/awesome-foss/awesome-sysadmin>
 {: .ls}
 
 ### awesome-security
@@ -457,7 +457,7 @@ a list of open source sysadmin resources
 a list of security related software, libraries, resources, etc
 {: lc}
 
---\> <https://github.com/sbilly/awesome-security>
+<https://github.com/sbilly/awesome-security>
 {: .ls}
 
 ### the book of secret knowledge
@@ -466,7 +466,7 @@ a list of security related software, libraries, resources, etc
 manuals, cheatsheets, blogs, hacks, one-liners, cli tools, etc
 {: lc}
 
---\> <https://github.com/trimstray/the-book-of-secret-knowledge>
+<https://github.com/trimstray/the-book-of-secret-knowledge>
 {: .ls}
 
 ### Malware Analysis Tools List
@@ -475,7 +475,7 @@ manuals, cheatsheets, blogs, hacks, one-liners, cli tools, etc
 A curated list of awesome malware analysis tools and resources.
 {: .lc}
 
---\> <https://0x1.gitlab.io/security/Malware-Analysis-Tools-List/>
+<https://0x1.gitlab.io/security/Malware-Analysis-Tools-List/>
 {: .ls}
 
 [` ^ top`](#)
@@ -498,7 +498,7 @@ A curated list of awesome malware analysis tools and resources.
 GitHub star history plots 
 {: lc}
 
---\> <https://github.com/nschloe/gh-trends>
+<https://github.com/nschloe/gh-trends>
 {: .ls}
 
 ### GitPop3
@@ -507,7 +507,7 @@ GitHub star history plots
 Find the most popular fork on GitHub.
 {: lc}
 
---\> <https://andremiras.github.io/gitpop3/>
+<https://andremiras.github.io/gitpop3/>
 {: .ls}
 
 ### emoji-cheat-sheet
@@ -516,7 +516,7 @@ Find the most popular fork on GitHub.
 This cheat sheet is automatically generated from GitHub Emoji API and Unicode Full Emoji List.
 {: .lc}
 
---\> <https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md>
+<https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md>
 {: .ls}
 
 [` ^ top`](#)
@@ -539,7 +539,7 @@ This cheat sheet is automatically generated from GitHub Emoji API and Unicode Fu
 The Mystery of the Dodleston Messages
 {: .lc}
 
---\> <https://www.youtube.com/watch?v=nEDgG5MKndo>
+<https://www.youtube.com/watch?v=nEDgG5MKndo>
 {: .ls}
 
 [` ^ top`](#)
