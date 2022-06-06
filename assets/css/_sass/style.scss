@@ -198,6 +198,57 @@ blockquote {
   padding-left: 20px;
 }
 
+////////// links
+
+.lt {
+  padding-top: 15px;
+  line-height: 1.1em;
+}
+
+.lc {
+  font-size: 1em;
+  padding-left: 11px;
+}
+
+.ls {
+  padding-left: 7px;
+  font-size: .9em;
+  line-height: 1.0em;
+  border-bottom: 1px solid $sepline;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $sepline-dark; 
+  }
+  border-radius: 11px 11px 15px 3px/35px 15px 7px 15px;
+  margin-right: 47px;
+  margin-left: 15px;
+  padding-bottom: 15px;
+}
+
+.lst {
+  padding-top: 15px;
+  padding-left: 67px;
+  line-height: 1.1em;
+}
+
+.lsc {
+  font-size: 1em;
+  padding-left: 78px;
+}
+
+.lss {
+  padding-left: 7px;
+  font-size: .9em;
+  line-height: 1.0em;
+  border-bottom: 1px solid $sepline;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $sepline-dark; 
+  }
+  border-radius: 11px 11px 15px 3px/35px 15px 7px 15px;
+  margin-right: 47px;
+  margin-left: 85px;
+  padding-bottom: 15px;
+}
+
 ////////// articles
 
 // article source
@@ -245,6 +296,16 @@ blockquote {
     border-right: 1px dotted $handdrawn-dark; 
   }
 }
+
+// top ^
+.t {
+  code {
+    border: 0;
+    font-size: .5em;
+    padding-left: 27px;
+  }
+}
+
 
 // "hand drawn" main category box
 .acm {
