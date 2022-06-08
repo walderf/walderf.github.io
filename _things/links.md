@@ -528,6 +528,38 @@ This cheat sheet is automatically generated from GitHub Emoji API and Unicode Fu
 
 <div class="acm">
 
+# big media
+{: .acname}
+
+<div class="ac">
+
+### Project Censored
+{: .lst .no_toc}
+
+The news that didn't make the news.
+{: .lsc}
+
+<https://www.projectcensored.org/>
+{: .lss}
+
+### Independent News Sources
+{: .lst .no_toc}
+
+The news outlets and media organizations listed here consistently live up to the Society of Professional Journalists’ four guidelines for ethical journalism by seeking the truth and reporting it, minimizing harm, acting independently, and being accountable and transparent.
+{: .lsc}
+
+<https://www.projectcensored.org/independent-news-links/>
+{: .lss}
+
+[` ^ top`](#)
+{: .t}
+
+</div>
+</div>
+<br />
+
+<div class="acm">
+
 # videos
 {: .acname}
 

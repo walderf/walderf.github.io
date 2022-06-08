@@ -22,17 +22,19 @@ github: "walderf"
 # Tracker
 analytics:
 
-disqus:
-  shortname: "walderf"
+staticman_url: https://api.staticman.net/v3/entry/github/walderf/walderf.github.io/man/comments
+  
+#disqus:
+#  shortname: "walderf"
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-     layout: "post"
-     comments: true 
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#     layout: "post"
+#     comments: true 
 
 #optimization -> compress.html
 compress_html:

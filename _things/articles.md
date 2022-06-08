@@ -138,7 +138,7 @@ description: a collecton of interesting articles on various subjects
 
 <div class="acm">
 
-# big reality  
+# big media / big reality 
 {: .acname}
 
 ["The Monopoly On Your Mind, Part 1: Consolidation Craze & Illusion of Choice"](https://rebeccastrong.substack.com/p/big-media-big-conflicts-of-interest)
@@ -154,6 +154,28 @@ description: a collecton of interesting articles on various subjects
 
 [imgur](https://i.imgur.com/vaKj43i.png) - [archive.org](https://web.archive.org/web/20220421013728/https://greenwald.substack.com/p/former-intelligence-officials-citing?s=r) - [archive.today](https://archive.ph/52BIj)
 {: .as}
+
+["These were CNN’s top 100 digital stories of 2021"](https://www.cnn.com/2021/12/30/us/top-100-digital-stories-2021-cec/index.html)
+
+> A big joke!
+
+[archive.org](https://web.archive.org/web/20220101135222/https://www.cnn.com/2021/12/30/us/top-100-digital-stories-2021-cec/index.html) - [archive.today](https://archive.ph/wip/PRSdm)
+{: .as}
+
+["How Corporate Media Threatens Our Democracy"](https://inthesetimes.com/features/bernie-sanders-corporate-media-threatens-our-democracy.html)
+
+> This is a crisis we can no longer afford to ignore.
+
+[archive.org](https://web.archive.org/web/20220517030937/https://inthesetimes.com/features/bernie-sanders-corporate-media-threatens-our-democracy.html) - [archive.today](https://archive.ph/wip/FzJT3)
+{: .as}
+
+["Humanity’s broken risk perception is reversing global progress in a ‘spiral of self-destruction’, finds new UN report"](https://www.undrr.org/news/humanitys-broken-risk-perception-reversing-global-progress-spiral-self-destruction-finds-new)
+
+> World could undo social and economic advances and face 1.5 disasters a day by 2030, according to UN’s flagship Global Assessment Report.
+
+[archive.org](https://web.archive.org/web/20220607023532/https://www.undrr.org/news/humanitys-broken-risk-perception-reversing-global-progress-spiral-self-destruction-finds-new) - [archive.today](https://archive.ph/pJfUj)
+{: .as}
+
 
 [` ^ top`](#)
 {: .t}

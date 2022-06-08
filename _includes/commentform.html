@@ -1,0 +1,9 @@
+<form method="POST" action="{{ site.staticman_url }}">
+  <input name="options[redirect]" type="hidden" value="https://walderf.github.io">
+  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+  <label><input name="fields[name]" type="text">name</label>
+  <label><input name="fields[email]" type="email">e-mail</label>
+  <label><textarea name="fields[message]"></textarea>message</label>
+  
+  <button type="submit">send</button>
+</form>
